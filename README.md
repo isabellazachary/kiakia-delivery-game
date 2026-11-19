@@ -13,7 +13,7 @@ A 3D browser game: ride a Kiakia delivery bike through Lagos traffic, from Lekki
 - **Power-ups:** the Go-slow buster (faster, slip through traffic) and the Parcel magnet (pulls coins and parcels to you).
 - **Two modes:** a Delivery shift (real jobs, timer, fuel, ratings, 88% of the fare) and an Arcade dash.
 - **Plays offline** once loaded, and can be added to the home screen. Fits phones, tablets and computers, in any orientation.
-- **Controls:** arrow keys or A / D; swipe or tap left / right on a phone.
+- **Controls:** ← → or A / D to change lanes, ↑ / W / Space to jump over potholes, P or Esc to pause. On a phone: swipe left / right to change lanes and swipe up to jump.
 - **Built with:** TypeScript, [Three.js](https://threejs.org) and Vite. Every model is made from simple shapes in code and the sounds are generated with the Web Audio API.
 
 ```bash
